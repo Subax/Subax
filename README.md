@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanbyul choi(@subax), live in Seoul, Republic of korea.
-- 👀 I’m interested in Programming by C, C++, Java, Python etc.
-- 🌱 I’m currently learning C++ and Java in Yonsei University MIRAE campus.
+- 👀 I’m interested in Programming by C, C++, Java, Python, Django, html/css etc.
+- 🌱 I’m currently learning Linear Algebra, Data Structure, Algorithm in Yonsei University MIRAE campus.
 - 📫 Contact : chb3327@gmail.com
 
 <!---
