@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Hanbyul choi(@subax), live in Seoul, Republic of korea.
 - 👀 I’m interested in Programming by C, C++, Java, Python, Django, html/css etc.
 - 🌱 I’m currently learning Linear Algebra, Data Structure, Algorithm in Yonsei University MIRAE campus.
-- 📫 Contact : chb3327@gmail.com
+- 📫 Contact: chb3327@gmail.com
+- More information: https://www.linkedin.com/in/hanbyul-choi-0b79a3313/
 
 <!---
 Subax/Subax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
